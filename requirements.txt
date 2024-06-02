@@ -1,5 +1,3 @@
-sklearn
+scikit-learn
 streamlit
-yfinance
-pickles
 pandas
